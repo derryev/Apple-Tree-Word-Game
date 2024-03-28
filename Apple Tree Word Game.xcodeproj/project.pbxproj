@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0D219A592BB5C090000B3069 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D219A582BB5C090000B3069 /* Game.swift */; };
 		0D94F7582BB445B1004B1BD5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D94F7572BB445B1004B1BD5 /* AppDelegate.swift */; };
 		0D94F75A2BB445B1004B1BD5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D94F7592BB445B1004B1BD5 /* SceneDelegate.swift */; };
 		0D94F75C2BB445B1004B1BD5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D94F75B2BB445B1004B1BD5 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0D219A582BB5C090000B3069 /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
 		0D94F7542BB445B1004B1BD5 /* Apple Tree Word Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple Tree Word Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D94F7572BB445B1004B1BD5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0D94F7592BB445B1004B1BD5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				0D94F7572BB445B1004B1BD5 /* AppDelegate.swift */,
 				0D94F7592BB445B1004B1BD5 /* SceneDelegate.swift */,
 				0D94F75B2BB445B1004B1BD5 /* ViewController.swift */,
+				0D219A582BB5C090000B3069 /* Game.swift */,
 				0D94F75D2BB445B1004B1BD5 /* Main.storyboard */,
 				0D94F76B2BB44C38004B1BD5 /* Assets2.xcassets */,
 				0D94F7622BB445B5004B1BD5 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				0D94F75C2BB445B1004B1BD5 /* ViewController.swift in Sources */,
 				0D94F7582BB445B1004B1BD5 /* AppDelegate.swift in Sources */,
 				0D94F75A2BB445B1004B1BD5 /* SceneDelegate.swift in Sources */,
+				0D219A592BB5C090000B3069 /* Game.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
