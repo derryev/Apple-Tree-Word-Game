@@ -21,6 +21,8 @@ class ViewController: UIViewController {
     @IBOutlet var letterButtons: [UIButton]!
     @IBAction func letterButtonPressed(_ sender: UIButton) {
         sender.isEnabled = false
+        let letterString = sender.configuration!.title!
+        let letter = Character(letterString.lowercased())
     }
     override func viewDidLoad() {
         super.viewDidLoad()
